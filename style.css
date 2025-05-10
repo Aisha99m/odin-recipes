@@ -1,0 +1,10 @@
+body {
+  background: #eee;
+  font-family: sans-serif;
+}
+.recipe {
+  width: 400px;
+  background: #fff;
+  margin: 16px auto;
+
+}
